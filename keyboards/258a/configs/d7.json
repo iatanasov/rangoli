@@ -6,12 +6,12 @@
     "lightEnabled": true,
     "rgb": true,
     "top": [
-        23,
-        34
+        0,
+        0
     ],
     "bottom": [
-        786,
-        266
+        845,
+        282
     ],
     "keys": [
         {
