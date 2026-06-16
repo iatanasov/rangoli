@@ -11,61 +11,61 @@
     {
       "bIndex": 1,
       "keyCode": "Key_Escape",
-      "top": [12, 44],
-      "bottom": [39, 75]
+      "top": [25, 33],
+      "bottom": [60, 70]
     },
     {
       "bIndex": 2,
       "keyCode": "Key_Tab",
-      "top": [12, 44],
-      "bottom": [39, 75]
+      "top": [25, 82],
+      "bottom": [60, 120]
     },
     {
       "bIndex": 3,
       "keyCode": "Multimedia_Play_Pause",
-      "top": [12, 44],
-      "bottom": [39, 75]
+      "top": [25, 130],
+      "bottom": [60, 170]
     },
     {
       "bIndex": 4,
       "keyCode": "Multimedia_Volume_Up",
-      "top": [12, 44],
-      "bottom": [39, 75]
+      "top": [25, 178],
+      "bottom": [60, 215]
     },
     {
       "bIndex": 5,
       "keyCode": "Multimedia_Volume_Down",
-      "top": [12, 44],
-      "bottom": [39, 75]
+      "top": [25, 255],
+      "bottom": [60, 265]
     },
     {
       "bIndex": 7,
       "keyCode": "Key_Back_Quote",
-      "top": [12, 44],
+      "top": [73, 33],
       "bottom": [39, 75]
     },
     {
       "bIndex": 8,
       "keyCode": "Key_Tab",
-      "top": [13, 87],
+      "top": [73, 82],
       "bottom": [60, 118]
     },
     {
       "bIndex": 9,
       "keyCode": "Key_Caps_Lock",
-      "top": [13, 130],
+      "top": [73, 130],
       "bottom": [70, 161]
     },
     {
       "bIndex": 10,
       "keyCode": "Key_Left_Shift",
-      "top": [13, 172],
+      "top": [73, 172],
       "bottom": [91, 203]
     },
     {
       "bIndex": 11,
       "keyCode": "Key_Left_Control",
-      "top": [13, 215],
+      "top": [73, 215],
       "bottom": [49, 246]
     },
     {
@@ -407,20 +407,20 @@
     {
       "bIndex": 17,
       "keyCode": "Key_Left_Super",
-      "top": [66, 215],
+      "top": [133, 225],
       "bottom": [102, 246]
     },
     {
       "bIndex": 23,
       "keyCode": "Key_Left_Alt",
-      "top": [118, 215],
+      "top": [193, 225],
       "bottom": [153, 246]
     },
     {
       "bIndex": 35,
       "keyCode": "Key_Space",
-      "top": [170, 215],
-      "bottom": [414, 246]
+      "top": [247, 225],
+      "bottom": [391, 268]
     },
     {
       "bIndex": 53,
